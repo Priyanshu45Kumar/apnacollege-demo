@@ -1,4 +1,6 @@
 # apnacollege-demo
 This is my first repository
 <br>
-Author - priyanshu kumar
+Author - priyanshu kumar yadav simariya.
+
+   
